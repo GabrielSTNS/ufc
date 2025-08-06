@@ -1,1 +1,1 @@
-# ufc
+###Exercícios de Databricks, utilizando duas tabelas do UFC. Uma tabela contém todas as lutas da organização e a outra contém as lutas que vão acontecer.
